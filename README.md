@@ -2,7 +2,7 @@
 
 - ⚡ portfolio [https://github.com/celsrami/portfolio-Celia-Ramirez]
 
-- 💬 Conctact me **francescabentin@gmail.com**
+- 💬 Conctact me **celsrami22@gmail.com**
 <!--
 **celsrami/celsrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
