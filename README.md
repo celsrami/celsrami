@@ -1,5 +1,8 @@
-<h1> Hi there 👋 I'm Celia Ramírez </h1>
+<h1> hello world 👋 I'm Celia Ramírez </h1>
 
+- ⚡ portfolio [https://github.com/celsrami/portfolio-Celia-Ramirez]
+
+- 💬 Conctact me **francescabentin@gmail.com**
 <!--
 **celsrami/celsrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
