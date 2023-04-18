@@ -1,6 +1,6 @@
 <h1> hello world 👋 I'm Celia</h1>
 
-- ⚡ portfolio [https://github.com/celsrami/portfolio-Celia-Ramirez]
+- ⚡ portfolio https://github.com/celsrami/portfolio-Celia-Ramirez
 
 - 💬 Conctact me **celsrami22@gmail.com**
 <!--
