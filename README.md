@@ -1,4 +1,4 @@
-<h1> hello world 👋 I'm Celia Ramírez </h1>
+<h1> hello world 👋 I'm Celia</h1>
 
 - ⚡ portfolio [https://github.com/celsrami/portfolio-Celia-Ramirez]
 
